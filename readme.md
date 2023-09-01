@@ -3,6 +3,8 @@
 
 This is a repository containing code to join the [Wyze Rule Recommendation Challenge](https://huggingface.co/spaces/competitions/wyze-rule-recommendation) at [HuggingFace](huggingface.co).
 
+## Description
+
 The Wyze Rule Recommendation Challenge invites data scientists to develop innovative machine learning solutions that recommend customized smart home automation rules to users, using Wyze’s anonymized smart home dataset. This competition aims to push the boundaries of smart home AI while maintaining rigorous data privacy standards. Competitors will train models on rich, real-world smart home data to predict which automation rules each user is likely to benefit from based on their usage patterns and behaviors.
 
 ## Objective and Overview
